@@ -10,9 +10,9 @@ probes.
 
 ## What's inside
 
-- `src/main.c`: the firmware. Bare-metal AVR: ADC setup and channel switching, a
-  Timer1 millisecond counter with its own interrupt, USART, and the measurement
-  routines.
+- `src/main.c`: the firmware, written in C directly against the AVR registers
+  without the Arduino framework. ADC setup and channel switching, a Timer1
+  millisecond counter with its own interrupt, USART, and the measurement routines.
 - `include/`, `lib/`, `test/`, `platformio.ini`: standard PlatformIO layout
 - `REPORT SPRO-2 G7.pdf`: full project report
 
