@@ -1,12 +1,12 @@
 # Smart Multimeter
 
-<img src="docs/prototype.png" width="250" alt="The multimeter prototype: 3D printed probe housing, control box, and the head-mounted display unit">
-
 A homemade multimeter built in 2024 for the second semester project of the BEng
 in Mechatronics at SDU. It measures resistance and capacitance on an ATmega328P
 and shows the readings on a head-mounted display: a small OLED reflected onto a
 transparent panel, so the measurement stays in view while both hands are on the
 probes.
+
+<img src="docs/prototype.png" width="250" alt="The multimeter prototype: 3D printed probe housing, control box, and the head-mounted display unit">
 
 ## What's inside
 
